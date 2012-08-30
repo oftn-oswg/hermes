@@ -13,7 +13,7 @@ This section hopes to provide a basic overview of what seperates this project ap
 * Server software
 * Client software
 
-[this section MUST be expanded with a brief description of the idea]
+<!-- TODO: this section MUST be expanded with a brief description of the idea -->
 
 
 Technology
