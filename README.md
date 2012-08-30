@@ -19,8 +19,8 @@ This section hopes to provide a basic overview of what seperates this project ap
 Technology
 ----------
 
-* MKV container
-* H.264 video
+* transOgg or Ogg container
+* H.265 video
 * Opus audio
 * Text format based on some semantic format we make
 
