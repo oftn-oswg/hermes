@@ -1,7 +1,7 @@
 Hermes
 ======
 
-The ΩF:∅ Foundation has announced plans to introduce a new communication protocol and associated software. The codename for this project is Hermes, known for being the Greek god of "travel, messengers, trade, thievery, cunning wiles, language, writing, diplomacy, athletics, and animal husbandry" [1]. We hope that systemfault's idea of deciding codenames after Greek mythological figures is followed in the future. As with all codenames, it can and most likely will be renamed in the future. Because sephr has objections to this name [2], we will have to change it later or we will most likely get executed.
+The ΩF:∅ Foundation has announced plans to introduce a new communication protocol and associated software. The codename for this project is Hermes, known for being the Greek god of "travel, messengers, trade, thievery, cunning wiles, language, writing, diplomacy, athletics, and animal husbandry" \[[1]\]. We hope that systemfault's idea of deciding codenames after Greek mythological figures is followed in the future. As with all codenames, it can and most likely will be renamed in the future. Because sephr has objections to this name \[[2]\], we will have to change it later or we will most likely get executed.
 
 
 Overview
